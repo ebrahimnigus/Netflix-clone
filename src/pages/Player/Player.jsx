@@ -1,9 +1,9 @@
 import React from 'react'
-import './Player.css'
+import './Player'
 
 const Player = () => {
   return (
-    <div className='player'></div>
+    <div className="player"></div>
   )
 }
 
