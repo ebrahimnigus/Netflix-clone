@@ -1,0 +1,8 @@
+.hero {
+position: relative;
+}
+.banner-img{
+    width: 100%;
+    mask-image: linear-grdient(to right, transparent, black 75%);
+    -webkit-mask-image: linear-grdient(to right, transparent, black 75%);
+}
