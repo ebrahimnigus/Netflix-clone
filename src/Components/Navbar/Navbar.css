@@ -15,7 +15,7 @@
     gap: 50px;
 
 }
-.nabar-left img{
+.navbar-left img{
     width: 90px;
 }
 .navbar-left ul{
@@ -64,4 +64,7 @@
 }
 .navbar-profile:hover .dropdown {
     display: block;
+}
+.nav-dark{
+    background: #141414;
 }
