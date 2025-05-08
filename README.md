@@ -20,3 +20,8 @@ Tech Stack
 > Backend: firebase
 
 > State Management: React hooks (useState, useEffect)
+
+Screenshot
+
+![FS1](https://github.com/user-attachments/assets/c01f408a-acd1-4714-9718-78e74e032a4c)
+
