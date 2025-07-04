@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react'
-import Home from './Pages/Home/Home'
+import Home from './Pages/Home/Home.jsx'
 import {Routes, Route, useNavigate} from 'react-router-dom'
-import Login from './Pages/Login/Login'
-import Player from './Pages/Player/Player'
+import Login from './Pages/Login/Login.jsx'
+import Player from './Pages/Player/Player.jsx'
 import { onAuthStateChanged } from 'firebase/auth'
-import { auth } from './Firebase'
+import { auth } from './Firebase.js'
 import { ToastContainer, toast } from 'react-toastify';
 //import 'react-toastify/dist/ReactToastify.css';
 const App = () => {
